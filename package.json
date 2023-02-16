@@ -1,0 +1,16 @@
+{
+  "name": "cyberpet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^8.0.0",
+    "jest": "^29.4.3"
+  }
+}
